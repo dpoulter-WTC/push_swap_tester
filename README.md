@@ -3,5 +3,13 @@
 # USAGE:
 
 *ruby push_swap_tester.rb ./push_swap "values you want"
+
+    eg: ruby push_swap_tester.rb ./push_swap "3 2 1"
+
 *ruby push_swap_tester.rb ./push_swap "How many values you want"
+    
+    eg: ruby push_swap_tester.rb ./push_swap 500
+    
 *ruby push_swap_tester.rb ./push_swap
+    
+    eg: eg: ruby push_swap_tester.rb ./push_swap
