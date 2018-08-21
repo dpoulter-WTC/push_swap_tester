@@ -2,14 +2,16 @@
 
 # USAGE:
 
-*ruby push_swap_tester.rb ./push_swap "values you want"
+Copy into directory your push swap is in.
+
+*Use with set numbers: ruby push_swap_tester.rb ./push_swap "values you want"
 
     eg: ruby push_swap_tester.rb ./push_swap "3 2 1"
 
-*ruby push_swap_tester.rb ./push_swap "How many values you want"
+*Use with random n numbers: push_swap_tester.rb ./push_swap n
     
-    eg: ruby push_swap_tester.rb ./push_swap 500
+    eg: ruby push_swap_tester.rb ./push_swap 100
     
-*ruby push_swap_tester.rb ./push_swap
+*Use with random 500 numbers
     
-    eg: eg: ruby push_swap_tester.rb ./push_swap
+    eg: ruby push_swap_tester.rb ./push_swap
